@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio website built to showcase my skills, projects, certifications, experience, and achievements as a B.Tech Information Technology student and aspiring Full Stack & AI Developer.
 
-
+# Live Demo : https://buvan-buddu.github.io/horizontechx_portfolio/
 
 ## ✨ Features
 
